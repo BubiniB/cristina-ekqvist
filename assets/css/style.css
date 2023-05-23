@@ -28,6 +28,10 @@ header {
     margin-top: 10px;
 }
 
+.logo:hover {
+    color: #DEB6AB;
+}
+
 .navbar-nav .menuitem  {
     font-family: "Lato", sans-serif;
     font-size: 120%;
@@ -37,11 +41,12 @@ header {
   }
 
 .navbar-nav .menuitem.active {
-    color: rgb(158, 118, 118);
+    color: #594545;
+    border-bottom: 1px solid #594545;
 }
 
 .menuitem:hover {
-    color: rgb(158, 118, 118);
+    color: #DEB6AB;
 }
 
 /* Extra small devices (phones, 600px and down) */
