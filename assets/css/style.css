@@ -8,5 +8,24 @@
 
 
 
-/*--------------------------------------------Heading*/
+/* Sidebar */
 
+.logo {
+    color:#fff8ea;
+    font-family: "Lato", sans-serif;
+    font-size: 200%;
+
+}
+
+.bg-color-sidebar {
+    background-color: #594545;
+    color: #fff8ea;
+    font-family: "Lato", sans-serif;
+    font-size: 105%;
+}
+
+.nav-tabs .nav-link {
+    color:#fff8ea;
+    border: none;
+    text-align: left;
+}
